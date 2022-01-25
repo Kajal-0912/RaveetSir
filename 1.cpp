@@ -23,4 +23,16 @@ int main(){
     }
     return 0;
 }
+
+/*Print the pattern */
+
+/*          *
+           **
+          ***
+         ****
+        *****       */
+
+
+
+
  

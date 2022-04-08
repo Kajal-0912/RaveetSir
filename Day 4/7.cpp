@@ -1,3 +1,6 @@
+/*Write a function to take string as input and return string with all capital letters.*/
+
+
 #include<bits/stdc++.h>
 
 using namespace std;

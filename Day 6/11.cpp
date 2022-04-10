@@ -12,7 +12,7 @@ int main(){
     double fact = 1;
     double num_sum = 0;
     double den_sum = 0;
-    double den_pro = 1;
+    double den_pro = 1; 
     double res = 0;
 
     for(int i=1; i<=n; i++){

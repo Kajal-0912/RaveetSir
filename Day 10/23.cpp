@@ -1,4 +1,6 @@
 /* https://leetcode.com/problems/two-sum/   */
+//EASY
+
 
 class Solution {
 public:
